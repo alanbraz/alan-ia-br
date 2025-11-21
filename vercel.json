@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.linkedin.com/in/alanbraz/",
+      "destination": "https://alanbraz.com.br",
       "permanent": true
     }
   ]
